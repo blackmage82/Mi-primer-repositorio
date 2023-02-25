@@ -1,0 +1,19 @@
+p {
+    color: blueviolet;
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+h1 {
+
+    border: 1px solid green;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 30px 15px 15px 20px;
+    font-weight: bold;
+    color: gold;
+}

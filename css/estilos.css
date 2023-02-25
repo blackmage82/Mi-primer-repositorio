@@ -1,0 +1,16 @@
+p {
+    color: blueviolet;
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+h1 {
+
+    border: 1px solid green;
+    padding: 5px;
+    margin: 30px;
+    font-weight: 30px;
+    color: gold;
+}
